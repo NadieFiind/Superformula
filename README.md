@@ -5,4 +5,4 @@
 
 A web-based implementation of superformula using [p5.js](https://p5js.org/). Simply serve the [index.html](index.html) to run the project.
 
-Adjust the parameters below the canvas to achieve different superellipse results.
+Adjust the parameters to achieve different superellipse results.
